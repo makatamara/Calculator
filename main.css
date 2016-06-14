@@ -1,4 +1,4 @@
 .text-center:not(h1):hover {
-	background: lightblue;
+	background: red;
 	cursor: pointer;
 }
